@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "re2": "1.21.4",
-    "semver": "7.3.2"
+    "semver": "7.5.2"
   }
 }
